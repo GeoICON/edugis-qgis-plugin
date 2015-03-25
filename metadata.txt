@@ -1,0 +1,19 @@
+[general]
+name=EduGIS Plugin
+qgisMinimumVersion=2.1
+description=Main EduGIS Plugin
+version=1.2.0
+author=GeoICON Pte. Ltd., Serge Markin
+email=serge@geoicon.com
+
+changelog=
+
+; tags are in comma separated value format, spaces are allowed
+tags=edugis,geoicon
+
+homepage=http://geoicon.com
+tracker=
+repository=
+
+experimental=False
+deprecated=False

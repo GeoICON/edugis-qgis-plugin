@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/plugins/edugis">
+        <file>images/icons/gi_add_edugis_layer.png</file>
+        <file>images/icons/gi_Select_freehand.png</file>
+        <file>images/icons/gi_add_edugis_layer.png</file>
+        <file>images/icons/gi_add_raster_layer.png</file>
+        <file>images/icons/gi_add_spatialite_layer.png</file>
+        <file>images/icons/gi_add_vector_layer.png</file>
+        <file>images/icons/gi_deselect_all.png</file>
+        <file>images/icons/gi_expression_select.png</file>
+        <file>images/icons/gi_fixed_distance_buffer.png</file>
+        <file>images/icons/gi_identify.png</file>
+        <file>images/icons/gi_measure_angle.png</file>
+        <file>images/icons/gi_measure_area.png</file>
+        <file>images/icons/gi_measure_line.png</file>
+        <file>images/icons/gi_new_bookmark.png</file>
+        <file>images/icons/gi_open_table.png</file>
+        <file>images/icons/gi_pan.png</file>
+        <file>images/icons/gi_query.png</file>
+        <file>images/icons/gi_refresh.png</file>
+        <file>images/icons/gi_remove_layers.png</file>
+        <file>images/icons/gi_select_polygon.png</file>
+        <file>images/icons/gi_select_radius.png</file>
+        <file>images/icons/gi_select_rectangle.png</file>
+        <file>images/icons/gi_select_single.png</file>
+        <file>images/icons/gi_show_bookmarks.png</file>
+        <file>images/icons/gi_variable_distance_buffer.png</file>
+        <file>images/icons/gi_zoom_full.png</file>
+        <file>images/icons/gi_zoom_in.png</file>
+        <file>images/icons/gi_zoom_out.png</file>
+        <file>images/icons/gi_zoom_to_selection.png</file>
+        <file>images/icons/gi_print.png</file>
+        <file>images/icons/gi_heatmap.png</file>
+        <file>images/icons/gi_spatial_query.png</file>
+        <file>images/icons/gi_open_project.png</file>
+        <file>images/icons/gi_save_project.png</file>
+
+        <file>images/icons/gi_layer_properties.png</file>
+    </qresource>
+</RCC>
